@@ -15,3 +15,6 @@ Let's GO
 
 # 2023-11-19
 - "Today's programming wisdom is to focus on writing clean, maintainable, and efficient code. This means using appropriate data structures and algorithms, following coding best practices, and commenting your code thoroughly. It also means continuously learning and staying up-to-date with the latest technologies and techniques in your field. Lastly, it's important to embrace collaboration and seek feedback from others to improve your skills and produce better code."
+
+# 2023-11-20
+- "Keep it simple, stupid!"
