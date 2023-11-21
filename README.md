@@ -18,3 +18,6 @@ Let's GO
 
 # 2023-11-20
 - "Keep it simple, stupid!"
+
+# 2023-11-21
+- "Today's programming wisdom is to write code that is not only functional but also maintainable and readable. Invest time in proper planning, documentation, and testing to ensure your code can be easily understood and modified by others in the future. Remember, programming is not just about solving problems, it's also about creating solutions that can be built upon and evolved over time."
