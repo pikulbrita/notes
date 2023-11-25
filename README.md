@@ -32,3 +32,8 @@ Let's GO
 - Today's programming wisdom is to always prioritize your time and focus on the most important tasks. This means breaking down your project into smaller, manageable tasks and prioritizing them based on their impact on your overall goal. By focusing on what matters most, you can efficiently allocate your resources and avoid getting sidetracked by less critical tasks or distractions.
 
 Another important aspect of programming is understanding the basics of the language or framework you're using. Mastering the fundamentals allows you to write cleaner, more efficient code, and makes it easier to troubleshoot issues as they arise. Always be willing to learn new techniques and tools, as this will help you become a better programmer and adapt to the ever-changing landscape of technology.
+
+# 2023-11-25
+- "Programming wisdom for today: Always write code as if the person who will maintain it is a violent psychopath who knows where you live." 
+
+This quote emphasizes the importance of writing clean, well-structured, and easily understandable code. It's not only about making your own life easier when you have to revisit your code in the future but also about considering the people who might have to work with your code in the future. By following this advice, you can ensure that your code is more maintainable, less prone to bugs, and easier to understand, which can save time and effort in the long run.
