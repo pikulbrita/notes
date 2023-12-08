@@ -83,3 +83,10 @@ Remember to take breaks throughout the day to avoid burnout and maintain focus. 
 
 # 2023-12-07
 - "Keep it simple, stupid!"
+
+# 2023-12-08
+- Today's programming wisdom is to be a lifelong learner, constantly updating your skills and knowledge in the field. This means staying up-to-date with the latest technologies, tools, and programming languages. It also means being open to new ideas and approaches, as well as being willing to ask for help and advice from others.
+
+To be successful in programming, it is essential to have a deep understanding of the fundamentals, such as data structures, algorithms, computer architecture, operating systems, etc. These fundamentals will provide a solid foundation for your career, allowing you to adapt to the ever-changing landscape of technology. 
+ - 学习新技能，不断更新你的技能库和知识库。
+- 对最新技术、工具和编程语言保持敏感。 保持开放的心态，接受新的想法和方法。- 有耐心，不怕犯错误。从错误中学习，不断提高自己的技能。
