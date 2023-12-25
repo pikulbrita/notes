@@ -153,3 +153,10 @@ This quote reminds us that optimizing code too early in the development process 
 
 # 2023-12-24
 - Today's programming wisdom is: "Simplicity is the ultimate sophistication. Complex systems arise from simple, well-designed components working together. In coding, strive to write clean, readable, and modular code. Avoid unnecessary complexity and always keep in mind that tomorrow, you (or someone else) might have to read, understand, and modify your code. Remember, code is read far more often than it is written."
+
+# 2023-12-25
+- Today's programming wisdom is to be a lifelong learner, constantly updating your skills and knowledge in the field. This means staying up-to-date with the latest technologies, tools, and best practices. It also means being open to new ideas and approaches, as well as being willing to take risks and try new things.
+
+To be successful in programming, it' s essential to have a deep understanding of the fundamentals, such as data structures, algorithms, computer architecture, operating systems, etc. These fundamentals will serve as a strong foundation for your career, allowing you to easily adapt to the ever-changing landscape of technology. 
+ - 了解最新技术，工具和最佳实践。
+- 是终身学习者，不断更新自己的技能和知识。- 有扎实的基本功，如数据结构、算法、计算机架构、操作系统等。
