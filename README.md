@@ -171,3 +171,6 @@ To be successful in programming, it' s essential to have a deep understanding of
 - Today's programming wisdom is to prioritize tasks, plan ahead, and stay organized. This will help you to be more efficient and productive in your work. By prioritizing tasks based on their importance and urgency, you can ensure that you are focusing on the right things and making progress towards your goals.
 
 Planning ahead is essential to avoid last-minute panic and stress. Break down your projects into smaller, manageable tasks and set realistic deadlines for each one. Using task management tools, such as Trello or Asana, can help keep you organized and on track. Remember to check your progress regularly and adjust your plans as needed.
+
+# 2023-12-29
+- Today's programming wisdom is to embrace the principle of "write readable code". Always remember that code is read far more often than it is written. Strive for clarity and simplicity in your syntax, use descriptive variable names, and include comments to explain complex logic or reasoning. Remember, writing maintainable and understandable code is a crucial aspect of being a good programmer, as it not only makes your work easier to debug and update but also enhances collaboration with your fellow developers.
