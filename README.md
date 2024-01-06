@@ -204,3 +204,10 @@ Another one: "Premature optimization is the root of all evil (or at least most o
 
 # 2024-01-05
 - "Keep it simple, stupid!"
+
+# 2024-01-06
+- "Today's programming wisdom: 'Simplicity is the ultimate sophistication.' — Leonardo da Vinci. In coding, strive to write clear, concise, and readable code. Avoid unnecessary complexity; it often leads to bugs and maintenance nightmares. Remember that code is read far more than it is written, so make it easy for others (and your future self) to understand." 
+
+"Also, 'Premature optimization is the root of all evil' — Donald Knuth. Focus on writing correct and maintainable code first. Only optimize when you have identified bottlenecks through profiling, not based on assumptions or hunches." 
+
+"Lastly, 'Code is like humor. When you have to explain it, it’s bad.' — Cory House. Write expressive code that speaks for itself. Use descriptive variable names, follow consistent patterns, and modularize your work effectively."
