@@ -229,3 +229,9 @@ In essence, a great programmer thinks not only about solving the problem at hand
 
 # 2024-01-10
 - "Keep it simple, stupid!"
+
+# 2024-01-11
+- Today's programming wisdom is to prioritize tasks, plan ahead, and stay organized. This will help you to be more efficient and productive in your work. First, prioritize your tasks based on their importance and deadlines. By giving priority to the tasks that need to get done first, you can ensure that you are making progress on the right things.
+
+Second, always plan your day or week ahead of time. Write down your goals for the day and break them down into smaller tasks. Then, allocate time for each task during your planning phase. Having a plan will keep you focused and on track with your objectives. You can also use task management tools, such as Trello or Asana, to help organize your workload. These tools can help keep track of your progress and make it easier to stay organised. 
+ （104个字符）
