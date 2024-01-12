@@ -235,3 +235,6 @@ In essence, a great programmer thinks not only about solving the problem at hand
 
 Second, always plan your day or week ahead of time. Write down your goals for the day and break them down into smaller tasks. Then, allocate time for each task during your planning phase. Having a plan will keep you focused and on track with your objectives. You can also use task management tools, such as Trello or Asana, to help organize your workload. These tools can help keep track of your progress and make it easier to stay organised. 
  （104个字符）
+
+# 2024-01-12
+- Today's programming wisdom: "Simplicity is the ultimate sophistication. In software development, always strive to write clean, readable, and maintainable code. Avoid unnecessary complexity and over-engineering. Remember that code is read far more often than it's written, so prioritize clarity for your future self and collaborators. And, as Alan Kay famously said, 'Premature optimization is the root of all evil.' Focus on writing correct code first, then optimize if and where necessary."
