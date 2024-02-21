@@ -420,3 +420,6 @@ In practice, this means:
 
 Second, always plan beforehand. When starting a new project or working on a complex task, create a plan with a timeline and break it down into smaller, manageable steps. Doing so will make it easier to stay on track and avoid getting lost in the details. You can also use project management tools, such as Trello or Asana, to help keep track of your progress and ensure nothing falls through the cracks. 
  - 来自NLP
+
+# 2024-02-21
+- "Keep it simple, stupid!"
